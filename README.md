@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @OsamaShaker0
 - 👀 I’m interested in backend 
-- 🌱 I’m currently learning about backend and nodejs
+- 🌱 I’m  backend and nodejs deceloper
+- also using express and my sql database like moongodb
 - 📫 you can reach me using my gmail account osamashaker136@gmail.com
 
 
