@@ -13,7 +13,7 @@ Hi! I'm a passionate **Backend Developer** with a strong interest in designing a
 - 🔧 **Node.js** & **Express.js**
 - 🗃️ **MongoDB** & **MySQL**
 - 🔐 RESTful APIs & Authentication Systems
-- 🚀 Deployments & Backend Architecture
+- 🚀 Backend Architecture & Deployment
 
 I'm constantly learning and improving my skills to stay on top of the latest backend technologies and best practices.
 
@@ -43,7 +43,7 @@ I'm constantly learning and improving my skills to stay on top of the latest bac
 ## 📫 How to Reach Me
 
 - 📧 Email: [osamashaker136@gmail.com](mailto:osamashaker136@gmail.com)
-- 💼 LinkedIn: [in/osama-shaker-a91067266]
+- 💼 LinkedIn: [linkedin.com/in/osama-shaker-a91067266](https://www.linkedin.com/in/osama-shaker-a91067266)
 
 ---
 
@@ -54,7 +54,7 @@ I'm constantly learning and improving my skills to stay on top of the latest bac
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaShaker0&theme=radical" alt="GitHub Streak"/>
 </p>
----
+
 
 <!---
 OsamaShaker0/OsamaShaker0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
