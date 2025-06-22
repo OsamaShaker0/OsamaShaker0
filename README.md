@@ -1,34 +1,59 @@
-# 👋 Hi, I'm Osama Shaker
+<h1 align="center">👋 Hey there, I'm Osama Shaker</h1>
 
-🚀 **Backend Developer** | 🌐 **Node.js & Express** | 🛢️ **MongoDB & MySQL Enthusiast**
+<p align="center">
+  🧠 Backend Developer | ⚙️ Node.js Enthusiast | 🛢️ MongoDB & MySQL Lover
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate **backend developer** focused on building robust, scalable, and secure web applications. My primary tech stack revolves around:
+Hi! I'm a passionate **Backend Developer** with a strong interest in designing and building efficient, secure, and scalable server-side applications. I specialize in:
 
-- ⚙️ **Node.js**
-- 🚏 **Express.js**
-- 🗃️ **Databases**: MongoDB & MySQL
-- 🔐 Exploring authentication, RESTful APIs, and performance optimization
+- 🔧 **Node.js** & **Express.js**
+- 🗃️ **MongoDB** & **MySQL**
+- 🔐 RESTful APIs & Authentication Systems
+- 🚀 Deployments & Backend Architecture
 
-I'm always learning, improving, and keeping up with the latest backend technologies and best practices.
+I'm constantly learning and improving my skills to stay on top of the latest backend technologies and best practices.
+
+---
+
+## 🚀 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced backend architecture
-- Security practices in Node.js
-- DevOps basics and deployment workflows
+- Advanced backend patterns & architecture
+- API security & authentication (JWT, OAuth2)
+- Docker & deployment strategies
 
 ---
 
-## 📫 Contact Me
+## 📫 How to Reach Me
 
-📧 Email: [osamashaker136@gmail.com](mailto:osamashaker136@gmail.com)
+- 📧 Email: [osamashaker136@gmail.com](mailto:osamashaker136@gmail.com)
+- 💼 LinkedIn: *[optional if you have one]*
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OsamaShaker0&show_icons=true&theme=radical" alt="Osama's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaShaker0&theme=radical" alt="GitHub Streak"/>
+</p>
 ---
 
 <!---
