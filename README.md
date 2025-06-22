@@ -43,7 +43,7 @@ I'm constantly learning and improving my skills to stay on top of the latest bac
 ## 📫 How to Reach Me
 
 - 📧 Email: [osamashaker136@gmail.com](mailto:osamashaker136@gmail.com)
-- 💼 LinkedIn: *[optional if you have one]*
+- 💼 LinkedIn: [in/osama-shaker-a91067266]
 
 ---
 
